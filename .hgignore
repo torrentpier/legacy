@@ -1,0 +1,7 @@
+glob:*/Thumbs.db
+glob:forum/cache/*.php
+glob:forum/cache/filecache/*.php
+glob:forum/cache/filecache/bb_cache/*.php
+glob:forum/cache/filecache/datastore/*.php
+glob:forum/cache/filecache/session_cache/*.php
+glob:forum/cache/filecache/tr_cache/*.php
